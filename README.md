@@ -1,6 +1,9 @@
 # VideoP2R: Video Understanding from Perception to Reasoning
 
-[![Paper](https://img.shields.io/badge/arXiv-2511.11113-b31b1b.svg)](https://arxiv.org/abs/2511.11113)
+[![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](https://arxiv.org/pdf/2511.11113)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.11113-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2511.11113)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://videop2r.github.io/videop2r/)
+[![GitHub](https://img.shields.io/badge/GitHub-Data%20%26%20Code-181717.svg?logo=github)](https://github.com/1171-jpg/videop2r)
 
 Official data release for VideoP2R, CVPR 2026 Findings.
 
