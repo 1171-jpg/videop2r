@@ -85,11 +85,11 @@ Please cite the original datasets in addition to our paper.
 ## Citation
 
 ```bibtex
-@article{jiang2025videop2r,
-  title   = {VideoP2R: Video Understanding from Perception to Reasoning},
-  author  = {Jiang, Yifan and Wang, Yueying and Zhao, Rui and Parag, Toufiq and
-             Chen, Zhimin and Liao, Zhenyu and Unnikrishnan, Jayakrishnan},
-  journal = {arXiv preprint arXiv:2511.11113},
-  year    = {2025}
+@inproceedings{jiang2026videop2r,
+  title={Videop2r: Video understanding from perception to reasoning},
+  author={Jiang, Yifan and Wang, Yueying and Zhao, Rui and Parag, Toufiq and Chen, Zhimin and Liao, Zhenyu and Unnikrishnan, Jayakrishnan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8303--8313},
+  year={2026}
 }
 ```
