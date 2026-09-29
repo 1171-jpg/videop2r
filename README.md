@@ -17,6 +17,8 @@ VideoP2R treats perception and reasoning as two separate processes in video unde
 
 This release is text only. No video, audio, images, or frames are redistributed. To use the dataset, download the source media from the original releases listed under Attribution below.
 
+The videos and images can be downloaded from [Video-R1-data](https://huggingface.co/datasets/Video-R1/Video-R1-data). The `path` field of each record follows its directory layout.
+
 ### Format
 
 Each record is a JSON object:
@@ -84,6 +86,10 @@ The question text, answer options, ground-truth answers, and source identifiers 
 | STAR | Apache-2.0 |
 
 Please cite the original datasets in addition to our paper.
+
+## Acknowledgements
+
+We sincerely appreciate the contributions of the open-source community. The related projects are as follows: [R1-V](https://github.com/Deep-Agent/R1-V), [Video-R1](https://github.com/tulerfeng/Video-R1)
 
 ## Citation
 
